@@ -5,3 +5,5 @@ Voici les modèles que j'ai utilisé pendant mes projets personnels:
 2/ Le modèle basic de GAN (Generative_Adversarial_Networks_(GANs).ipynb)
 
 3/ Générer les images avec GAN plus détaillé (GAN_art.ipynb)
+
+4/ Dossier NLP
