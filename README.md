@@ -1,4 +1,4 @@
-Voici les modèles que j'ai utilisé pendant mes projets personnels:
+Voici les modèles que j'ai utilisé pour améliorer mes compétences de machine learning:
 
 1/ Dossier GAN:
 - Le modèle basic de GAN (Generative_Adversarial_Networks_(GANs).ipynb)
